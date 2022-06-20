@@ -51,6 +51,9 @@ https://discovery.endeavouros.com/window-tiling-managers/i3-wm/
 +Up focus up
 +Right focus right
 
+# open CRT
++Shift+Return
+
 # move a focused window
 +Shift+j move left
 +Shift+k move down
